@@ -11,7 +11,7 @@
 
 
 
-- 🎯 Portfolio website: [Portfolio]()
+- 🎯 Portfolio website: [Portfolio](https://20a31a05h5.github.io/praveen-portfolio/)
 - 💬 Ask me about anything, I am happy to help :smile:
 - 📬 How to reach me: [Let's get in touch!](https://www.linkedin.com/in/kommireddy-praveen-b247a3225)
 
